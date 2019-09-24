@@ -1,8 +1,9 @@
 # flutter_music
 
 A new Flutter project.
-
-## Getting Started
+## Demo
+![demo](https://github.com/khangpropk123/flutter-music-players/blob/master/demo/Flutter_MusicPlayer.gif)
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
